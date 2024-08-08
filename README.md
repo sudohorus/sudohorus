@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Horus!
 
-- 💬 Ask me about **CyberSec**
+- 💬 Ask me about **hacking**
 
 - 📫 How to reach me **sudohorusdev@gmail.com**
 
