@@ -1,8 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm sudohorus</h1>
-<img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/animated-system-coding-p7a08hqqh2i0potj.webp">
 
-- 💬 Ask me about **CyberSec, Bug Bounty**
+- 💬 Ask me about **CyberSec**
 
 - 📫 How to reach me **sudohorusdev@gmail.com**
 
@@ -16,3 +15,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sudohorus&show_icons=true&locale=en&layout=compact" alt="sudohorus" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sudohorus&show_icons=true&locale=en" alt="sudohorus" /></p>
+
