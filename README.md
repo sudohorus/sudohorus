@@ -1,5 +1,4 @@
-
-### 👋Hi, I'm horus !
+# 👋 Hi, I'm Horus!
 
 - 💬 Ask me about **CyberSec**
 
@@ -14,4 +13,4 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=sudohorus&show_icons=true&hide_border=true&theme=radical" />
 
-<img src="https://wakatime.com/share/@sudohorus/afc2fb7d-5afc-472c-8fc1-2b7d9fef64fd.svg" height="348" align="left">
+<img src="https://wakatime.com/share/@sudohorus/8d10b386-7d0a-45ac-8359-c06f3663178e.svg" height="348" align="left">
