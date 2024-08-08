@@ -1,6 +1,5 @@
 
 <h1 align="center">Hi 👋, I'm sudohorus</h1>
-<h3 align="center">A developer from Brazil</h3>
 <img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/animated-system-coding-p7a08hqqh2i0potj.webp">
 
 - 💬 Ask me about **CyberSec, Bug Bounty**
