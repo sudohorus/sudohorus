@@ -15,5 +15,5 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=sudohorus&show_icons=true&hide_border=true&theme=radical" />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=sudohorus&range=30_days&hide_border=true&theme=radical&custom_title=Coding%20stats%20(last%207%20days)&layout=compact" />
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=sudohorus&api_domain=wakapi.dev&range=30_days&hide_border=true&theme=radical&custom_title=Coding%20stats%20(last%2030%20days)&layout=compact" />
 
