@@ -5,7 +5,6 @@
 
 - 💬 Ask me about **hacking**
 
-- 📫 How to reach me **sudohorusdev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
