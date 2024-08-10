@@ -13,4 +13,4 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=sudohorus&show_icons=true&hide_border=true&theme=radical" />
 
-<img src="https://wakatime.com/share/@sudohorus/8d10b386-7d0a-45ac-8359-c06f3663178e.svg" height="348" align="left">
+<img src="https://wakatime.com/share/@sudohorus/971194e7-6834-493b-b0fe-7655b8855358.svg" height="348" align="left">
