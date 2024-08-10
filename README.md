@@ -14,5 +14,5 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=sudohorus&show_icons=true&hide_border=true&theme=radical" />
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sudohorus&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sudohorus&theme=radical&hide_title=true&hide_progress=false&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
