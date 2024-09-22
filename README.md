@@ -3,7 +3,7 @@
 
 <p> <img src="https://komarev.com/ghpvc/?username=sudohorus&label=Profile%20views&color=blueviolet&style=flat" alt="sudohorus" /> </p>
 
-- 💬 Ask me about **hacking**
+- **the quieter you become, the more you can hear - Ram Dass**
 
 
 <h3 align="left">Connect with me:</h3>
