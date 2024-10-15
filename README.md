@@ -15,16 +15,15 @@
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail Badge" />
   </a>
 </div>
-
 <br>
 
 <br>
 
 <div align=center>
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=sudohorus&count_private=true&theme=radical&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=sudohorus&count_private=true&theme=radical&hide_border=true&layout=compact" alt="streak stats"/>
 </div>
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=sudohorus&hide_border=true&theme=radical&custom_title=Coding%20stats&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=sudohorus&hide_border=true&theme=radical&layout=compact" />
 </p>
