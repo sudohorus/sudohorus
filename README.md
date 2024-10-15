@@ -1,18 +1,29 @@
-![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) 
-# Hi, I'm Horus!
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi!+👋;+I'm+Horus!;" />
+</h1>
 
-<p> <img src="https://komarev.com/ghpvc/?username=sudohorus&label=Profile%20views&color=blueviolet&style=flat" alt="sudohorus" /> </p>
+<p align="center">
+  <strong>"the quieter you become, the more you can hear" - Ram Dass</strong>
+</p>
 
-- **"the quieter you become, the more you can hear" - Ram Dass**
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sudohorus&label=Profile%20views&color=blueviolet&style=flat" alt="sudohorus" />
+</p>
+
+<div align="center"> 
+  <a href="mailto:sudohorusdev@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+</div>
+<br>
+
+<br>
+
+<div align=center>
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=sudohorus&count_private=true&theme=radical&border_radius=10" alt="streak stats"/>
+</div>
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://x.com/sudohorusdev" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sudohorus" height="30" width="40"/></a>
-
-<p></p>
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=sudohorus&show_icons=true&hide_border=true&theme=radical" />
-
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=sudohorus&hide_border=true&theme=radical&custom_title=Coding%20stats&layout=compact" />
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=sudohorus&hide_border=true&theme=radical&custom_title=Coding%20stats&layout=compact" />
+</p>
