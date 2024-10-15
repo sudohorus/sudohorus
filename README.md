@@ -5,6 +5,10 @@
 <p align="center">
   <strong>"the quieter you become, the more you can hear" - Ram Dass</strong>
 </p>
+<br>
+
+<h3 align="center"><I>Aspiring software developer and security analyst from Brazil 🇧🇷.</I></h3>
+<h4 align="center"><I>Currently studying Systems Development at ETEC.</I></h4>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sudohorus&label=Profile%20views&color=blueviolet&style=flat" alt="sudohorus" />
