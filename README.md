@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <strong>"the quieter you become, the more you can hear" - Ram Dass</strong>
+  <strong>"the quieter you become, the more you can hear." - Ram Dass</strong>
 </p>
 <br>
 
