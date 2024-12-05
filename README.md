@@ -3,6 +3,11 @@
 </h1>
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sudohorus&label=Profile%20views&color=blueviolet&style=flat" alt="sudohorus" />
+</p>
+<br>
+
+<p align="center">
   <strong>"the quieter you become, the more you can hear." - Ram Dass</strong>
 </p>
 <br>
@@ -36,9 +41,6 @@ Hobbies: Programming and Gaming
 </p>
 -->
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sudohorus&label=Profile%20views&color=blueviolet&style=flat" alt="sudohorus" />
-</p>
 
 
 
