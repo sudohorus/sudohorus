@@ -24,7 +24,7 @@ sudohorus@GitHub
 ▔▔▔▔▔▔▔▔
 OS: Windows 10 x64, Debian 12
 Location: Brasil, SP
-Learning: Assembly
+Learning: Assembly, PHP
 Languages: C++, Python, C
 Hobbies: Programming and Gaming
 ```
