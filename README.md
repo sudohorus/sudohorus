@@ -17,7 +17,6 @@
 ```
 <br>
 
-<a href="#"><img align="left" src="https://i.imgur.com/nE36Ci0.png" width="180"/> 
 
 ```lua
 sudohorus@GitHub
