@@ -3,12 +3,12 @@
 </h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sudohorus&label=Profile%20views&color=blueviolet&style=flat" alt="sudohorus" />
+  <strong>"the quieter you become, the more you can hear." - Ram Dass</strong>
 </p>
 <br>
 
 <p align="center">
-  <strong>"the quieter you become, the more you can hear." - Ram Dass</strong>
+  <img src="https://komarev.com/ghpvc/?username=sudohorus&label=Profile%20views&color=blueviolet&style=flat" alt="sudohorus" />
 </p>
 <br>
 
