@@ -33,9 +33,9 @@ Languages: C++, Python, C
 </h1>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sudohorus&show_icons=true&theme=omni&hide_border=true" alt="GitHub stats" width="495px">
-  <br>
   <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=sudohorus&count_private=true&theme=omni&hide_border=true&layout=compact" alt="streak stats"/>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=sudohorus&show_icons=true&theme=omni&hide_border=true" alt="GitHub stats" width="495px">
   <br>
 </div>
 
