@@ -37,10 +37,11 @@ Languages: C++, Python, C
   <br>
   <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=sudohorus&count_private=true&theme=omni&hide_border=true&layout=compact" alt="streak stats"/>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=sudohorus&theme=omni&hide_border=true&layout=compact" alt="Top Langs">
 </div>
 
 <!--
+
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=sudohorus&theme=omni&hide_border=true&layout=compact" alt="Top Langs">
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=sudohorus&hide_border=true&theme=radical&layout=compact" />
