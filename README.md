@@ -12,21 +12,6 @@
 </p>
 <br>
 
-```zsh
-> neofetch
-```
-<br>
-
-
-```lua
-sudohorus@GitHub
-▔▔▔▔▔▔▔▔
-OS: Windows 10 x64, Void Linux 
-Location: Brasil, SP
-Learning: Assembly, PHP
-Languages: C++, Python, C
-```
-
 <hr>
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=FFFFFF&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=ActivityStats;" />
