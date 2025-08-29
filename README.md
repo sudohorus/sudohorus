@@ -1,3 +1,6 @@
+<div align="center">
+    <img alt="dancingPenguin" aling="top-left" width=15% src="https://media.tenor.com/0hEQxK9tC7UAAAAi/club-penguin-dance.gif">
+</div>
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=FFFFFF&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi!+👋;+I'm+Horus!;" />
 </h1>
@@ -41,9 +44,7 @@
 </p>
 
 -->
-<div align="center">
-    <img alt="dancingPenguin" aling="top-left" width=15% src="https://media.tenor.com/0hEQxK9tC7UAAAAi/club-penguin-dance.gif">
-</div>
+
 
 
 
