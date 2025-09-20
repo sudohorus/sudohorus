@@ -19,7 +19,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=FFFFFF&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Stacks;" />
 </h1>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,javascript,html,css,django,qt,git,linux,mysql" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,javascript,html,css,django,qt,git,linux,mysql,nextjs,react" />
 </div>
 </p>
 
