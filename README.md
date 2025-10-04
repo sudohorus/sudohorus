@@ -1,51 +1,21 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=125&color=64339c&reversal=true&section=header&animation=fadeIn&descAlign=100"/>
+<!-- HEADER ANIMADO -->
 <div align="center">
-    <img alt="dancingPenguin" aling="top-left" width=15% src="https://media.tenor.com/0hEQxK9tC7UAAAAi/club-penguin-dance.gif">
-</div>
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=FFFFFF&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi!+👋;+I'm+Horus!;" />
-</h1>
-<!--
-<p align="center">
-  <strong>"the quieter you become, the more you can hear." - Ram Dass</strong>
-</p>
--->
-<br>
+    
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Anek+Devanagari&weight=600&color=64339C&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Horus!;I'm+18+years+old!;Back-end+Dev!;Welcome!+:%29)
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sudohorus&label=Profile%20views&color=blueviolet&style=flat" alt="sudohorus" />
-</p>
-<br>
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=FFFFFF&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Stacks;" />
-</h1>
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,javascript,html,css,django,qt,git,linux,mysql,nextjs,react,supabase" />
-</div>
-</p>
+  <img src="https://media.tenor.com/0hEQxK9tC7UAAAAi/club-penguin-dance.gif" width="120px">
+    
 
-<hr>
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=FFFFFF&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Activity+Stats;" />
-</h1>
-
-<div align="center">
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=sudohorus&count_private=true&theme=omni&hide_border=true&layout=compact" alt="streak stats"/>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=sudohorus&show_icons=true&theme=omni&hide_border=true" alt="GitHub stats" width="495px">
-  <br>
 </div>
 
-<!--
+---
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=sudohorus&theme=omni&hide_border=true&layout=compact" alt="Top Langs">
+<div align="center"> <img src="https://skillicons.dev/icons?i=python,cpp,c,js,html,css,linux,git,nextjs,django,qt,mysql,react,supabase" /> </div>
+<div align="center"> 
+    <!-- <img width="48%" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=sudohorus&theme=jolly&hide_border=true&bg_color=0d1117" /> -->
+    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sudohorus&show_icons=true&theme=jolly&hide_border=true&bg_color=0d1117" />
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=sudohorus&hide_border=true&theme=radical&layout=compact" />
-</p>
-
--->
-
-
-
-
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=125&color=64339c&reversal=true&section=footer&animation=fadeIn&descAlign=100"/>
