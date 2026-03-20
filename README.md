@@ -2,7 +2,7 @@
 
 <div align="center">
     
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Anek+Devanagari&weight=600&color=64339C&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Horus!;I'm+18+years+old!;Back-end+Dev!;Welcome!+:%29)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Anek+Devanagari&weight=600&color=64339C&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Horus!;I'm+18+years+old!;Fullstack+Dev!;Welcome!+:%29)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sudohorus&style=flat-square&color=blueviolet" alt="Visitas no perfil"/>
