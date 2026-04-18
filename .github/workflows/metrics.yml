@@ -1,0 +1,35 @@
+name: Metrics
+
+on:
+  schedule: [{ cron: "0 */12 * * *" }]
+  workflow_dispatch:
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: metrics
+        uses: lowlighter/metrics@latest
+        with:
+          user: sudohorus
+
+          token: ${{ secrets.METRICS_TOKEN }}
+
+          template: classic
+          base: header, activity, community, repositories
+
+          plugin_activity: yes
+          plugin_activity_limit: 5
+          plugin_activity_days: 14
+
+          plugin_languages: yes
+          plugin_languages_limit: 6
+          plugin_languages_ignored: html, css
+
+          plugin_isocalendar: yes
+
+          plugin_stars: yes
+          plugin_stars_limit: 4
