@@ -19,27 +19,27 @@
 
 ### BackEnd
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=django,rails,nodejs" />
+  <img src="https://skillicons.dev/icons?i=django,rails,nodejs,fastapi,express" />
 </p>
 
 ### FrontEnd
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,vue" />
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,vue,svelte" />
 </p>
 
 ### Databases
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,supabase" />
+  <img src="https://skillicons.dev/icons?i=mysql,supabase,postgresql,mongodb" />
 </p>
 
 ### Versioning & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,linux" />
+  <img src="https://skillicons.dev/icons?i=git,linux,aws,rabbitmq" />
 </p>
 
 ### Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,go,ruby" />
 </p>
 
 </details>
