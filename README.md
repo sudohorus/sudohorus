@@ -1,13 +1,11 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=125&color=64339c&reversal=true&section=header&animation=fadeIn&descAlign=100"/>
 
 <div align="center">
-    
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Anek+Devanagari&weight=600&color=64339C&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Horus!;I'm+19+years+old!;Fullstack+Dev!;Welcome!+:%29)
-
+<img src="https://media.tenor.com/0hEQxK9tC7UAAAAi/club-penguin-dance.gif" width="120px">
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sudohorus&style=flat-square&color=blueviolet" alt="Visitas no perfil"/>
 </p>
-  <img src="https://media.tenor.com/0hEQxK9tC7UAAAAi/club-penguin-dance.gif" width="120px">
+
     
 
 </div>
